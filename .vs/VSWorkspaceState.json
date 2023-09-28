@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\warbler",
+    "\\warbler\\generator",
+    "\\warbler\\static",
+    "\\warbler\\static\\images",
+    "\\warbler\\static\\stylesheets",
+    "\\warbler\\templates",
+    "\\warbler\\templates\\messages",
+    "\\warbler\\templates\\users"
+  ],
+  "SelectedNode": "\\warbler\\templates\\users\\edit.html",
+  "PreviewInSolutionExplorer": false
+}
