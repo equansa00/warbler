@@ -32,7 +32,4 @@ class MessageModelTestCase(TestCase):
         db.session.add(msg)
         db.session.commit()
 
-        # Add more tests: 
-        # 1. Check if message requires a user_id.
-        # 2. Check if message has timestamp by default.
-        # 3. Any additional functionality in Message model you want to test.
+

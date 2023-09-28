@@ -50,4 +50,3 @@ class UserViewTestCase(TestCase):
             self.assertIn("@testuser", str(resp.data))
             # Expand upon this by checking more data about the user.
 
-    # ... (the rest of the code remains unchanged)
